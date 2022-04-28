@@ -21,7 +21,7 @@ are constantly evolving.
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyn-lalin/)
@@ -32,7 +32,7 @@ are constantly evolving.
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -51,6 +51,7 @@ are constantly evolving.
 
 <hr>
 
+<h3 align="center">STATUS</h3>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Jeztarz&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeztarz&theme=react&layout=compact" />
